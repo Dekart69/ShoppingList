@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_main">#DFEA73</color>
+
+    <color name="red_progress">#F3392C</color>
+    <color name="green_progress">#36DF4D</color>
+
+    <color name="picker_red">#F61202</color>
+    <color name="picker_green">#6FCD01</color>
+    <color name="picker_yellow">#E8FF06</color>
+    <color name="picker_orange">#FFA500</color>
+    <color name="picker_blue">#03A9F4</color>
+    <color name="picker_brown">#9C5E04</color>
+    <color name="picker_black">#222221</color>
+    <color name="picker_purple">#B62456</color>
+
+    <color name="color_status">#63AEA7</color>
+    <color name="grey">#797373</color>
+    <color name="grey_light">#BCB6B6</color>
+    <color name="salat">#12CA7F</color>
+
+    <color name="blue_light">#69B3D5</color>
+    <color name="blue_dark">#067FBF</color>
+
+    <color name="red_light">#D5574E</color>
+    <color name="red_dark">#C31609</color>
+
+    <color name="red_light_bg">#D5A5A2</color>
+    <color name="blue_light_bg">#AACDDD</color>
+
+
+
+
+
+
+</resources>
